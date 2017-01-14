@@ -36,5 +36,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🍬 - sugar syntax
 - 🏁 - fixing an issue
 - ⌛⏳ - time changes such as timeouts or polling
-- 🐊🔥🍾🎊🎉💊🔧🔨⚒⚙️⛓🗑📎💬💭🗯⚗⚖⚰ ⛪➕➖🚽👃 - helpful
+- 🐊🔥🍾🎊🎉💊🔧🔨⚒⚙️⛓🗑📎💬💭🗯⚗⚖⚰ ⛪➕➖🚽👃🌐⚠️♻️🍾 - helpful
+- ☢☣ adding code that should be cleaned up, is messy
+
 - ascii https://github.com/dysfunc/ascii-emoji
