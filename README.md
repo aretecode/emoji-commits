@@ -40,3 +40,5 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ☢☣ adding code that should be cleaned up, is messy
 
 - ascii https://github.com/dysfunc/ascii-emoji
+  - (ಠ_ಠ) - consternation
+  - ¯\_(ツ)_/¯ - IDK
