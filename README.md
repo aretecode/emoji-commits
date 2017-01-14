@@ -1,2 +1,40 @@
 # emoji-commits
 a more extensive general rule of thumb helpful emoji list for commit messages helpful for copy pasting &amp; searching
+
+- ⛑ - safety
+- ⛴ 🚢 - shipping
+- ⚒ - fixing
+- ⚡🐎🐌 - optimization / perf
+- ✂️☠ - cutting killing cleaning old cruft
+- 💅🏒❌ - cleaning / disabling
+- 📝✏ ️ - updating todos
+- 📖📚 - documentation
+- 🔎🐛 - finding bugs
+- 🚑🐛 - fixing bugs
+- 🚈🚆🚂 - network
+- 📒 - renaming/moving/copying files/folders
+- 💄🎩🎨🎀👑 - for code style/sexy/colors
+- 🚨❗️❕❓❔‼️⁉️⚠- ️ - important info
+- 🚧 - WIP
+- 💪🙏 - collab with others hi5 hi 5
+- ✨ - new feature
+- 🔖 - version bump/tag
+- 🔧 - tooling
+- 📦 - deps
+- 📦⬆ - upgrading dependencies
+- 📦⬇ - downgrading deps
+- 💩 - depreciating
+- 🔈 - adding logging
+- 🔇🙊 - reducing logging
+- 🔒 - security
+- 🐘🐬 - storage layer / data layer
+- 💚 - travis / ci
+- 👕 - linter
+- 🚱 - memory leaks
+- 👾 - simplifying
+- 🐴 - stupid jackass hacks / hacky things
+- 🍬 - sugar syntax
+- 🏁 - fixing an issue
+- ⌛⏳ - time changes such as timeouts or polling
+- 🐊🔥🍾🎊🎉💊🔧🔨⚒⚙️⛓🗑📎💬💭🗯⚗⚖⚰ ⛪➕➖🚽👃 - helpful
+- ascii https://github.com/dysfunc/ascii-emoji
