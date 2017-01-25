@@ -48,6 +48,8 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 👤 - iaam / user
 - ♻️ - abstracting / reusability / reuse
 - 🖇 - utils / lib / helpers
+- 👂 - event listeners / subscribers / handlers
+- 📢 - event publishers
 - 🐊🔥🍾🎊🎉💊🔧🔨⚒⚙️⛓📎💬💭🗯⚗⚖⚰ ⛪➕➖🚽👃⚠️🍾👀😡💤🥛🎚🎛🥅🕸 - helpful
 
 - ascii https://github.com/dysfunc/ascii-emoji
