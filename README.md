@@ -1,14 +1,15 @@
 # emoji-commits
 a more extensive general rule of thumb helpful emoji list for commit messages helpful for copy pasting &amp; searching
 
-- ⛑ - safety
+- ⛑🛡 - safety
 - ⛴ 🚢 - shipping
 - ⚒ - fixing
 - ⚡🐎🐌 - optimization / perf
 - ✂️☠ - cutting killing cleaning old cruft
-- 💅🏒❌🗑 - cleaning / disabling
+- 💅🏒❌🗑🚮🚯 - cleaning / disabling
 - 📝✏ ️ - updating todos
 - 📖📚 - documentation
+- ℹ️️ - comments
 - 🔎🐛 - finding bugs
 - 🚑🐛 - fixing bugs
 - 🏁 - fixing an issue
@@ -34,13 +35,20 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 👕 - linter
 - 🚱 - memory leaks
 - 👾 - simplifying
-- 🐴 - stupid jackass hacks / hacky things
-- 🍬 - sugar syntax
+- 🐴🤢👺 - stupid jackass hacks / hacky things / bad / dislike
+- 🍬🍭 - sugar syntax
 - ⌛⏳ - time changes such as timeouts or polling
-- ☢☣ - adding code that should be cleaned up, is messy
+- ☢☣🛢 - adding code that should be cleaned up, is messy
 - 🚨 - tests
 - 📇 - metadata
-- 🐊🔥🍾🎊🎉💊🔧🔨⚒⚙️⛓📎💬💭🗯⚗⚖⚰ ⛪➕➖🚽👃⚠️♻️🍾⚠️♻️👀😡 - helpful
+- 🌊〰️️ - flow
+- 🗺📌📍 - sitemaps / schema / index / routing
+- 🛂 - validation
+- ♿️ - accessibility
+- 👤 - iaam / user
+- ♻️ - abstracting / reusability / reuse
+- 🖇 - utils / lib / helpers
+- 🐊🔥🍾🎊🎉💊🔧🔨⚒⚙️⛓📎💬💭🗯⚗⚖⚰ ⛪➕➖🚽👃⚠️🍾👀😡💤🥛🎚🎛🥅🕸 - helpful
 
 - ascii https://github.com/dysfunc/ascii-emoji
 - (ಠ_ಠ) - consternation
