@@ -6,15 +6,17 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ⚒ - fixing
 - ⚡🐎🐌 - optimization / perf
 - ✂️☠ - cutting killing cleaning old cruft
-- 💅🏒❌ - cleaning / disabling
+- 💅🏒❌🗑 - cleaning / disabling
 - 📝✏ ️ - updating todos
 - 📖📚 - documentation
 - 🔎🐛 - finding bugs
 - 🚑🐛 - fixing bugs
-- 🚈🚆🚂 - network
+- 🏁 - fixing an issue
+- ⌨️⚒ - fix typos
+- 🚈🚆🚂🌐 - network
 - 📒 - renaming/moving/copying files/folders
 - 💄🎩🎨🎀👑 - for code style/sexy/colors
-- 🚨❗️❕❓❔‼️⁉️⚠- ️ - important info
+- 🚨❗️❕❓❔‼️⁉️⚠ - important info
 - 🚧 - WIP
 - 💪🙏 - collab with others hi5 hi 5
 - ✨ - new feature
@@ -34,11 +36,12 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 👾 - simplifying
 - 🐴 - stupid jackass hacks / hacky things
 - 🍬 - sugar syntax
-- 🏁 - fixing an issue
 - ⌛⏳ - time changes such as timeouts or polling
-- 🐊🔥🍾🎊🎉💊🔧🔨⚒⚙️⛓🗑📎💬💭🗯⚗⚖⚰ ⛪➕➖🚽👃🌐⚠️♻️🍾 - helpful
-- ☢☣ adding code that should be cleaned up, is messy
+- ☢☣ - adding code that should be cleaned up, is messy
+- 🚨 - tests
+- 📇 - metadata
+- 🐊🔥🍾🎊🎉💊🔧🔨⚒⚙️⛓📎💬💭🗯⚗⚖⚰ ⛪➕➖🚽👃⚠️♻️🍾⚠️♻️👀😡 - helpful
 
 - ascii https://github.com/dysfunc/ascii-emoji
-  - (ಠ_ಠ) - consternation
-  - ¯\_(ツ)_/¯ - IDK
+- (ಠ_ಠ) - consternation
+- ¯\_(ツ)_/¯ - IDK
