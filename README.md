@@ -50,6 +50,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🖇 - utils / lib / helpers
 - 👂 - event listeners / subscribers / handlers
 - 📢 - event publishers
+- 💾 - saving, localstorage
 - 🐊🔥🍾🎊🎉💊🔧🔨⚒⚙️⛓📎💬💭🗯⚗⚖⚰ ⛪➕➖🚽👃⚠️🍾👀😡💤🥛🎚🎛🥅🕸 - helpful
 
 - ascii https://github.com/dysfunc/ascii-emoji
