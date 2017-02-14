@@ -3,8 +3,8 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 
 ## ![#F6D155](https://placehold.it/15/#F6D155/000000?text=+) tools & todos
 - 📝✏ ️- updating todos
-- 🔧 - tooling
-- 📦⬆⬇ - upgrading downgrading removing deps / dependencies
+- 🔧🛠 - tooling / build
+- 📦⬆📦⬇ - upgrading downgrading removing deps / dependencies
 - 💚 - travis / ci
 - 👕 - linter
 - 👾 - simplifying
@@ -15,9 +15,9 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ⛑🛡 - safety
 - ⌨️⚒ - fixing / fix / fixing typos
 - 🔎🐛🚑🐛 - finding / fixing bugs
-- 🏁 - fixing an issue
+- ➕🏁⚒ - fixing an issue / making an issue
 - 🚱 - memory leaks
-- 📖📚ℹ️️ - documentation / comments
+- 📖📚ℹ️️ - documentation / comments / docs
 - ❗❕❓❔‼️⁉️⚠ - important info
 
 ## ![#5B5EA6](https://placehold.it/15/5B5EA6/000000?text=+) changing
@@ -25,15 +25,15 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ⚡🐎🐌 - optimization / perf
 - 🐘🐬 - storage layer / data layer
 - 💾💽 - save, disc, saving, localstorage
-- ✂️☠❌🗑🚮🚯💈 - cleaning / disabling / removing / cutting killing cleaning old cruft
+- ✂️🗑🚮🚯💈 - cleaning / disabling / removing / cutting killing cleaning old cruft
 - 💅 - polishing
-- 💄🎩🎨🎀👑 - for code style/sexy/colors/colours
+- 💄🎩🎨🎀👑 - for code style/sexy/colors/colours/design
 - ⚙ - options / config / prefs / configuration / preferences
 - 🛂 - validation
 - 🌐 - api
 - 🕸 - routing / route
 - ⛓ - connecting
-- 🐴🤢👺 - stupid jackass hacks / hacky things / bad / dislike
+- 🐴🤢👺🤦 - stupid jackass hacks / hacky things / bad / dislike
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ui
 - 🚼👶👀 - children (react, vue, inferno, html) / view layer
@@ -45,22 +45,23 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🏛️🏰📐📏 - architecture / structure
 - 📜 - old code
 - 📒 - renaming/moving/copying files/folders
+- ❌✖️ - remove / disable / delete
 - 👃🐽☢☣🛢🍝 - code smells should be cleaned up / messy / spaghetti code
 - 🎯 - specificity
 - ♻️ - abstracting / reusability / reuse
-- ⚗ - experiments
+- ⚗☠ - experiments / skeletons
 - 🚨 - tests
 
 ## ![#955251](https://placehold.it/15/955251/000000?text=+) words
 - 📆📅 - planning
 - 💡 - ideas
 - 📓 - stories / story
-- 📟 - pagination / lists
+- 📟📋 - pagination / lists
 
 ## ![#B565A7](https://placehold.it/15/B565A7/000000?text=+) git & releasing
 - 🚧 - WIP
 - 🏷 - version bump / tag / tagging / release
-- 🔖 - merging code
+- 🔖 - merging code / merge
 - ✨ - new feature
 - ⛴🚢 - shipping
 - 💩 - depreciating
@@ -78,6 +79,8 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ↩️↪️ - undo redo (e.g. commits)
 - 🗺📌📍 - sitemaps / schema / index
 - 🔁 - loops
+- 🖼️ - images / pictures
+- ➕- adding / enabling / enable / plus
 
 ## ![#DD4124](https://placehold.it/15/DD4124/000000?text=+) user / collab
 - 📧 - mail / email / e-mail
@@ -93,7 +96,32 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🆒😎🕶️
 - 😷 - sanitization
 - 🔤🔡🔠🔣🔢 - helpful, could be for validating or formulas
-- 🚀🛰🐊💥️🔥🍾🎊🎉💊🔨️📎💬💭🗯⚖⚰ ⛪➕➖🚽🍾😡💤🥛🎚🎛🏒🥅🕳☄☑️✔️✖️✳️✴️️🔍🔎🎵🎶⚛⭐💠🔋⚖️ - helpful / yet-to-categorize
+- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚖⚰ ⛪➕➖🚽🍾😡💤🥛🎚🎛🏒🥅🕳☄☑️✔️✳️✴️️🔍🔎🎵🎶⭐💠🔋⚖️⛰ - helpful / yet-to-categorize
+
+## ![#EFC050](https://placehold.it/15/EFC050/000000?text=+) orgs
+- 🎼 - [the composer](http://design-systems.github.io/basics/)
+- 🐊 - [crocodile js](https://github.com/crocodilejs)
+- 🔥 - [inferno js](https://github.com/infernojs/inferno)
+- ⚛ - [react js](https://facebook.github.io/react/)
+- ⚛ - [atom](https://atom.io/)
+- 🐆📒⬆ - [amazon aws](https://aws.amazon.com)
+
+## ![#2e0927](https://placehold.it/15/2e0927/000000?text=+) presets / examples
+- ⛓🔧🏹 aliasing
+- 📝✏ ️update   todos
+- 📝📅 update todos and planning
+- ❌📜📒 deleting old files
+- 🚮📜 removing old code
+- 🍭🍁 use es7 static props
+- 🍬 added @decorators for
+- 👕⚒ eslint autofixes
+- 🔇🙊 removed debugger
+- 💾⛓🛂🛡⛓🐬 connecting validation safety between localstorage and - data layer
+- 🔖🙏 merging pr for thingsnstuff from @
+- 🎨🎯 increasing selector specificity for colors
+- ♻️👾🛠 abstracting and simplifying build system
+- 🏰➕⚒🚨 improving architecture with added tests, fixed broken test for
+💅🎨🌀 polishing animation on color transitions
 
 ## additional
 - ascii https://github.com/dysfunc/ascii-emoji
