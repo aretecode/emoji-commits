@@ -43,7 +43,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 ## ![#92A8D1](https://placehold.it/15/92A8D1/000000?text=+) code
 - 🍬🍭🍁 - sugar syntax / es6 / es7 / es / js
 - 🏛️🏰📐📏 - architecture / structure
-- 📜 - old code
+- 📺📼 - old code
 - 📒 - renaming/moving/copying files/folders
 - ❌✖️ - remove / disable / delete
 - 👃🐽☢☣🛢🍝 - code smells should be cleaned up / messy / spaghetti code
@@ -51,6 +51,8 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ♻️ - abstracting / reusability / reuse
 - ⚗☠ - experiments / skeletons
 - 🚨 - tests
+- 📜 - scripts
+- 🔌 - plugins / middleware
 
 ## ![#955251](https://placehold.it/15/955251/000000?text=+) words
 - 📆📅 - planning
@@ -70,7 +72,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 
 ## ![#009B77](https://placehold.it/15/009B77/000000?text=+) things
 - 👂📢 - event publishers / listeners / subscribers / handlers
-- ⌛⏳ - time changes such as timeouts or polling
+- ⌛⏳⏲ - time changes such as timeouts or polling / timing
 - 🚈🚆🚂 - network
 - ☕ - filter things
 - 🔏🔐🔒🔓 - security
@@ -95,8 +97,10 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🔮 - magic
 - 🆒😎🕶️
 - 😷 - sanitization
+- ⚖️ - scaling
+- ✨🚩❄️ - flagging / feature flagging / feature freezing
 - 🔤🔡🔠🔣🔢 - helpful, could be for validating or formulas
-- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚖⚰ ⛪➕➖🚽🍾😡💤🥛🎚🎛🏒🥅🕳☄☑️✔️✳️✴️️🔍🔎🎵🎶⭐💠🔋⚖️⛰ - helpful / yet-to-categorize
+- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚖⚰ ⛪➕➖🚽🍾😡💤🥛🎚🎛🏒🥅🕳☄☑️✔️✳️✴️️🔍🔎🎵🎶⭐💠🔋⛰ - helpful / yet-to-categorize
 
 ## ![#EFC050](https://placehold.it/15/EFC050/000000?text=+) orgs
 - 🎼 - [the composer](http://design-systems.github.io/basics/)
@@ -108,10 +112,10 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 
 ## ![#2e0927](https://placehold.it/15/2e0927/000000?text=+) presets / examples
 - ⛓🔧🏹 aliasing
-- 📝✏ ️update   todos
+- 📝✏ ️update todos
 - 📝📅 update todos and planning
-- ❌📜📒 deleting old files
-- 🚮📜 removing old code
+- ❌📼📺📒 deleting old files
+- 🚮📼📺 removing old code
 - 🍭🍁 use es7 static props
 - 🍬 added @decorators for
 - 👕⚒ eslint autofixes
@@ -122,11 +126,12 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ♻️👾🛠 abstracting and simplifying build system
 - 🏰➕⚒🚨 improving architecture with added tests, fixed broken test for
 💅🎨🌀 polishing animation on color transitions
+- 🌐🚂📡📞 - api calls
 
 ## additional
 - ascii https://github.com/dysfunc/ascii-emoji
 - (ಠ_ಠ) - consternation
-- ¯\\_(ツ)_/¯ - IDK
+- ¯\\_(ツ)_/¯🤷 - IDK / whatever
 - (∩｀-´)⊃━☆ﾟ.*・｡ﾟ - wizard
 - https://github.com/GordonDiggs/lasagna
 - http://www.unicode.org/emoji/charts/emoji-ordering.html
