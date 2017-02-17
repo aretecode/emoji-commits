@@ -141,7 +141,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 ## additional
 - ascii https://github.com/dysfunc/ascii-emoji
 - (ಠ_ಠ) - consternation
-- ¯\_(ツ)_/¯🤷💁‍ - IDK / whatever
+- ¯\_(ツ)_/¯  ¯\\_(ツ)_/¯  🤷 💁‍ - IDK / whatever
 - (∩｀-´)⊃━☆ﾟ.*・｡ﾟ - wizard
 - https://github.com/GordonDiggs/lasagna
 - http://www.unicode.org/emoji/charts/emoji-ordering.html
