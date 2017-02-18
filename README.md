@@ -50,7 +50,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ❌✖️ - remove / disable / delete
 - 👃🐽☢☣🛢🍝 - code smells should be cleaned up / messy / spaghetti code
 - 🎯 - specificity
-- ♻️ - abstracting / reusability / reuse
+- ♻️ ▶️◀️  - abstracting / reusability / reuse / combine
 - ⚗☠💀 - experiments / skeletons / dead / death / skull / bones
 - 🚨🔬 - tests
 - 📜 - scripts
@@ -82,7 +82,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🤖 - bots / macros /
 - ↩️↪️ - undo redo (e.g. commits)
 - 🗺📌📍 - sitemaps / schema / index
-- 🔁 - loops
+- 🔁➰ - loops
 - 🖼️ - images / pictures
 - ➕ - adding / enabling / enable / plus
 - 🤖🎓 - machine learning / ml / ai
@@ -109,9 +109,8 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ❄️ - immutables / immutablejs
 - 🍦 - vanilla / vanilla js
 - 🏄 🏄🏻‍♀️ - onboard / on board / surf
-- 🤾🏻‍♀️  🤾🏻‍♂️ 🏸 - server
+- 🤾🏻‍♀️  🤾🏻‍♂️ 🏸 ☁️ - server / cloud
 - 🤸🏻‍♀️  🤸🏻‍♂️ - splitting code / separating
-- ➰ - loops
 - 👍👎 - approve / disapprove / like / dislike / thumbs down thumbs up
 - 🔤🔡🔠🔣🔢 - helpful, could be for validating or formulas / character / words / letters / numbers / keypad / input
 - 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰ ➕➖🚽😡💤🥛🎚🎛🏒🥅🕳☄☑️✔️✳️✴️️🎵🎶⭐💠🔋⛰🚫 - helpful / yet-to-categorize
