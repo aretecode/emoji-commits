@@ -1,7 +1,7 @@
 # emoji-commits
 a more extensive general rule of thumb helpful emoji list for commit messages helpful for copy pasting & searching
 
-## ![#F6D155](https://placehold.it/15/#F6D155/000000?text=+) tools & todos
+## ![#F6D155](https://placehold.it/15/F6D155/000000?text=+) tools & todos
 - 📝✏ ️- updating todos
 - 🔧🛠🏗 - tooling / build
 - 📦⬆📦⬇ - upgrading downgrading removing deps / dependencies
