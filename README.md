@@ -14,7 +14,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 ## ![#45B8AC](https://placehold.it/15/45B8AC/000000?text=+) fixing and docs
 - ⛑🛡 - safety
 - ⌨️⚒ - fixing / fix / fixing typos
-- 🔎🐛🚑🐛 - finding / fixing bugs / search
+- 🔍🔎🐛 🚑🐛 - finding / fixing bugs / search
 - ➕🏁⚒ - fixing an issue / making an issue
 - 🚱 - memory leaks
 - 📖📚ℹ️️ - documentation / comments / docs
@@ -24,6 +24,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🔈🔇🙊 - adding logging / reducing logging
 - ⚡🐎🐌 - optimization / perf
 - 🐘🐬 - storage layer / data layer
+- 🗽 - model / computed properties / computed props
 - 💾💽 - save, disc, saving, localstorage
 - ✂️🗑🚮🚯💈 - cleaning / disabling / removing / cutting killing cleaning old cruft / trash / garbage
 - 💅 - polishing
@@ -31,7 +32,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ⚙ - options / config / prefs / configuration / preferences
 - 🛂 - validation
 - 🌐 - api
-- 🕸 - routing / route
+- 🕸 - routing / route / router
 - ⛓ - connecting
 - 🐴🤢👺🤦‍♀️🤦 - stupid jackass hacks / hacky things / bad / dislike / facepalm
 
@@ -41,7 +42,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🔗 - links, linking, href
 
 ## ![#92A8D1](https://placehold.it/15/92A8D1/000000?text=+) code
-- 🍬🍭🍁 - sugar syntax / es6 / es7 / es / js
+- 🍬🍭🍁 - sugar syntax / es6 / es7 / es / js / wrap
 - 🏛️🏰📐📏 - architecture / structure / measure
 - 🏭 - factory / factories / design patterns
 - 📼📺 - old code / ancient / artifacts
@@ -50,8 +51,8 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 👃🐽☢☣🛢🍝 - code smells should be cleaned up / messy / spaghetti code
 - 🎯 - specificity
 - ♻️ - abstracting / reusability / reuse
-- ⚗☠ - experiments / skeletons / dead / death / skull / bones
-- 🚨 - tests
+- ⚗☠💀 - experiments / skeletons / dead / death / skull / bones
+- 🚨🔬 - tests
 - 📜 - scripts
 - 🔌 - plugins / middleware
 
@@ -83,7 +84,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🗺📌📍 - sitemaps / schema / index
 - 🔁 - loops
 - 🖼️ - images / pictures
-- ➕- adding / enabling / enable / plus
+- ➕ - adding / enabling / enable / plus
 - 🤖🎓 - machine learning / ml / ai
 - 🛅 - pack / box
 
@@ -98,14 +99,22 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 ## ![#D65076](https://placehold.it/15/D65076/000000?text=+) misc
 - 🗂🛒 - organizing / grouping / putting things together
 - 🔮🦄 - magic / async
-- 🆒😎🕶️
+- 🆒😎🕶️ - cool
 - 😷 - sanitization
 - ⚖️ - scaling / scale
 - 🐣 - nesting
 - 🤣🐦 - mocks / stubs
+- 🏃 🏃‍♀️ - run
 - ✨🚩❄️ - flagging / feature flagging / feature freezing
+- ❄️ - immutables / immutablejs
+- 🍦 - vanilla / vanilla js
+- 🏄 🏄🏻‍♀️ - onboard / on board / surf
+- 🤾🏻‍♀️  🤾🏻‍♂️ 🏸 - server
+- 🤸🏻‍♀️  🤸🏻‍♂️ - splitting code / separating
+- ➰ - loops
+- 👍👎 - approve / disapprove / like / dislike / thumbs down thumbs up
 - 🔤🔡🔠🔣🔢 - helpful, could be for validating or formulas / character / words / letters / numbers / keypad / input
-- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰ ➕➖🚽😡💤🥛🎚🎛🏒🥅🕳☄☑️✔️✳️✴️️🔍🔎🎵🎶⭐💠🔋⛰👍👎 - helpful / yet-to-categorize
+- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰ ➕➖🚽😡💤🥛🎚🎛🏒🥅🕳☄☑️✔️✳️✴️️🎵🎶⭐💠🔋⛰🚫 - helpful / yet-to-categorize
 
 ## ![#EFC050](https://placehold.it/15/EFC050/000000?text=+) orgs
 - 🎼 - [the composer](http://design-systems.github.io/basics/)
@@ -114,9 +123,10 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ⚛ - [react js](https://facebook.github.io/react/)
 - ⚛ - [atom](https://atom.io/)
 - 🐆📒⬆ - [amazon aws s3](https://aws.amazon.com)
+- 🗼🏗 - [babel](http://babeljs.io/)
+- 💣🛅🏗 - [fusebox](http://fuse-box.org/)
 - 🕸🛅🏗 - [webpack](https://webpack.js.org/)
 - ☺️️🛅🏗 - [happypack](https://github.com/amireh/happypack)
-- 🗼🏗 - [babel](http://babeljs.io/)
 
 ## ![#2e0927](https://placehold.it/15/2e0927/000000?text=+) presets / examples
 - ⛓🔧🏹 aliasing
@@ -137,11 +147,13 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🌐🚂📡📞 - api calls
 - 👨‍🔧👩‍🔧 - mechanic / builder / plumber / worker
 - 👩‍🔬👨‍🔬⚗🍭🍁🏛️🏭 - experiment with new language features using pattern
+-  👩🏼‍🚒 👨🏼‍🚒 🔥 - putting out fires
+-  👩‍🎨 👨‍🎨 💄🎨 - improving styles
 
 ## additional
 - ascii https://github.com/dysfunc/ascii-emoji
 - (ಠ_ಠ) - consternation
-- ¯\_(ツ)_/¯  ¯\\_(ツ)_/¯  🤷 💁‍ - IDK / whatever
+¯_(ツ)/¯ ¯\(ツ)_/¯ 🤷 💁‍ - IDK / whatever
 - (∩｀-´)⊃━☆ﾟ.*・｡ﾟ - wizard
 - https://github.com/GordonDiggs/lasagna
 - http://www.unicode.org/emoji/charts/emoji-ordering.html
