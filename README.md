@@ -1,19 +1,3 @@
-✚ ⎁⎂
-✚ 🏋️ loader
-✚ 🌲 ast parser
-✚ 🗝️⎁ terms
-✚ 🍰 presets
-✚ 👑⚔️ commander / battle
-✚ 🕳 deep / digging / black hole / advanced
-✚ 🎃 tips n tricks
-✚ ☮ compatibility
-✚ 🗼🏋️🏗 babel-loader builder org
-✚ 🏗🏗 flipbox org
-✚ 🍶📜 gulp org
-✚ 📦🐈 yarn org
-
-✚️ 🏗🏗🗼🏋️🏗🌲👑⚔️🍰🗝️ ⎁⎂
-
 # emoji-commits
 a more extensive general rule of thumb helpful emoji list for commit messages helpful for copy pasting & searching
 
@@ -144,7 +128,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🔋 - batteries
 - 🗝️⎁ - terms / definitions
 - 🍰 - presets / baked in
-- 🖥👑⚔️ - commander / battle / crown / king / queen
+- 🖥👑⚔️ - commander / battle / crown / king / queen [commander](https://github.com/tj/commander.js/)
 - 🕳 🏊🏼‍♂️ 🏊‍♀️ - deep / digging / hole / black hole / advanced / diving deeper / swim
 
 #### 🔜 yet-to-categorize
