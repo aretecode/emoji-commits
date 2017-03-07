@@ -15,9 +15,9 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ⛑🛡 - safety
 - ⌨️⚒ - fixing / fix / fixing typos
 - 🔍🔎🐛 🚑🐛 - finding / fixing bugs / search / found / missing
-- ➕🏁⚒ - fixing an issue / making an issue
+- 🏁⚒ - fixing an issue / making an issue
 - 🚱 - memory leaks
-- 📖📚ℹ️️ - documentation / comments / docs
+- 📖📚ℹ️️ - documentation / comments / docs / examples
 - ❗❕❓❔‼️⁉️⚠␦ - important info
 
 ## ![#5B5EA6](https://placehold.it/15/5B5EA6/000000?text=+) changing
@@ -34,7 +34,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🌐 - api
 - 🕸 - routing / route / router
 - 🗺📍 - sitemaps / schema / index / navigation
-- ⛓ - connecting
+- ⛓ - connecting / chain
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ui
 - 🚼👶👀 - children (react, vue, inferno, html) / view layer / eye / baby
@@ -43,7 +43,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 
 ## ![#92A8D1](https://placehold.it/15/92A8D1/000000?text=+) code
 - 🍬🍭🍁 - sugar syntax / es6 / es7 / es / js / wrap
-- 🏛️🏰📐📏 - architecture / structure / measure
+- 🏛️🏰📐📏 - architecture / structure / measure / refactor
 - 🏭 - factory / factories / design patterns
 - 📼📺 - old code / ancient / artifacts
 - 📒🚚 - renaming/rename/moving/copying files/folders
@@ -90,7 +90,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 
 ## ![#DD4124](https://placehold.it/15/DD4124/000000?text=+) user / collab
 - 📧 - mail / email / e-mail
-- 🌎🌍🌏🗣 - i18n / language / internationalization
+- 🌎🌍🌏🗣 - i18n / language / internationalization / world / globe
 - 👤 - iaam / user / account
 - 💪🙏🔖 - collab with others hi5 hi 5 high5 high 5
 - 🍪 - cookies / tracking
@@ -113,26 +113,19 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🤸🏻‍♀️  🤸🏻‍♂️ - splitting code / separating
 - 👍👎 - approve / disapprove / like / dislike / thumbs down thumbs up
 - 👢📌 - bootstrap / entry point
-- 🍑(‿ˠ‿)👣  - bottom / butt / footer / foot / feet / walk / soles
+- 🍑(‿ˠ‿)👣  - bottom / butt / footer / foot / feet / walk / soles / paths
 - ⑆ ⑇ ⑈  ⑉ - layout
 - ⌶✎✐ - editing
 - ✔️☑️☒ - done / finishing / complete
 - ⍝ - touch / point
 - ☮️ - compatibility
 - 🌲 - ast, parsing
-
-#### (could be for validating / formulas / keypad / input)
-- 🔣 - special characters
-- 🔢 - numbers / order
-- 🔤🔡🔠⎁⎂ words / letters
+- 🏎️ - engine
 - 🔋 - batteries
-- 🗝️⎁ - terms / definitions
 - 🍰 - presets / baked in
-- 🖥👑⚔️ - commander / battle / crown / king / queen [commander](https://github.com/tj/commander.js/)
+- 🖥👑⚔️ - commander / battle / crown / king / queen [commander](https://github.com/tj/commander.js/) / terminal
 - 🕳 🏊🏼‍♂️ 🏊‍♀️ - deep / digging / hole / black hole / advanced / diving deeper / swim
-
-#### 🔜 yet-to-categorize
-- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰🚽😡💤🥛🏒🥅☄✳️✴️️🎵🎶⭐💠⛰
+- 👋 - introduction
 
 ## ![#EFC050](https://placehold.it/15/EFC050/000000?text=+) orgs
 - 🎼 - [the composer](http://design-systems.github.io/basics/)
@@ -149,6 +142,25 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🍶📜 - [gulp](http://gulpjs.com/)
 - 🏗🏗 - [flipbox](https://github.com/flipbox)
 - 📦🐈 - [yarn](https://github.com/yarnpkg/yarn/blob/master/package.json#L7)
+- 🗞️🛅 - [rollup](https://github.com/rollup/rollup)
+- 🇳🕸⛓ - [neutrino webpack chain](https://github.com/mozilla-neutrino/neutrino-dev)
+
+## letters
+#### (could be for validating / formulas / keypad / input)
+- 🔣 - special characters
+- 🔢 - numbers / order
+- 🔤🔡🔠⎁⎂ words / letters
+- 🗝️⎁ - terms / definitions
+
+## ![#6DE01F](https://placehold.it/15/#6DE01F/000000?text=+) letters
+- 🇦 🇧 🇨
+- 🇩 🇪 🇫
+- 🇬 🇭 🇮
+- 🇯 🇰 🇱
+- 🇲 🇳 🇴 🇵
+- 🇶 🇷 🇸
+- 🇹 🇺 🇻
+- 🇼 🇽 🇾 🇿
 
 ## ![#2e0927](https://placehold.it/15/2e0927/000000?text=+) presets
 - 📝✏ ️update todos
@@ -179,6 +191,9 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 📜🖥🐣🦄🏃🍑 - packagejson scripts @ the bottom for running async nested commands
 - 🎃 - tips n tricks
 
+#### 🔜 yet-to-categorize
+- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰🚽😡💤🥛🏒🥅☄✳️✴️️🎵🎶⭐💠⛰
+
 ## additional
 - ascii https://github.com/dysfunc/ascii-emoji
 - (ಠ_ಠ) - consternation
@@ -188,3 +203,14 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - https://github.com/GordonDiggs/lasagna
 - http://www.unicode.org/emoji/charts/emoji-ordering.html
 - https://gitmoji.carloscuesta.me/
+
+## supported by github labels
+- ⚒️✂️⚔️⚙☮️ℹ️️✨☕⛳⛓⚡⛑✳️✴️️☄⛳⛱️❗
+- [unicode 1.1](http://emojipedia.org/unicode-1.1/)
+- [unicode 3](http://emojipedia.org/unicode-3.0/)
+- [unicode 3.2](http://emojipedia.org/unicode-3.2/)
+- [unicode 4](http://emojipedia.org/unicode-4.0/)
+- [unicode 4.1](http://emojipedia.org/unicode-4.1/)
+- [unicode 5.1](http://emojipedia.org/unicode-5.1/)
+- [unicode 5.2](http://emojipedia.org/unicode-5.2/)
+
