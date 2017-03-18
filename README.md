@@ -126,6 +126,9 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🖥👑⚔️ - commander / battle / crown / king / queen [commander](https://github.com/tj/commander.js/) / terminal
 - 🕳 🏊🏼‍♂️ 🏊‍♀️ - deep / digging / hole / black hole / advanced / diving deeper / swim
 - 👋 - introduction
+- 🎃 - tips n tricks
+- 💸 - cache
+- 📛 - badge
 
 ## ![#EFC050](https://placehold.it/15/EFC050/000000?text=+) orgs
 - 🎼 - [the composer](http://design-systems.github.io/basics/)
@@ -189,7 +192,6 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🛡👂 - safety to onclick handlers
 - 🔈⚙🎨 - config formatting options for logger
 - 📜🖥🐣🦄🏃🍑 - packagejson scripts @ the bottom for running async nested commands
-- 🎃 - tips n tricks
 
 #### 🔜 yet-to-categorize
 - 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰🚽😡💤🥛🏒🥅☄✳️✴️️🎵🎶⭐💠⛰
@@ -213,4 +215,3 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - [unicode 4.1](http://emojipedia.org/unicode-4.1/)
 - [unicode 5.1](http://emojipedia.org/unicode-5.1/)
 - [unicode 5.2](http://emojipedia.org/unicode-5.2/)
-
