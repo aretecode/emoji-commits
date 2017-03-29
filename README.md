@@ -8,28 +8,28 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 💚 - travis / ci
 - 👕 - linter
 - 👾 - simplifying
-- 🌊〰️️ - flow
-- 🖇 - utils / lib / helpers / library / utilities
+- 🌊〰️️ - flow / typescript / ts / types
+- 🖇 - utils / lib / helpers / library / utilities / paperclip
 
 ## ![#45B8AC](https://placehold.it/15/45B8AC/000000?text=+) fixing and docs
 - ⛑🛡 - safety
 - ⌨️⚒ - fixing / fix / fixing typos
 - 🔍🔎🐛 🚑🐛 - finding / fixing bugs / search / found / missing
-- 🏁⚒ - fixing an issue / making an issue
+- 🏁⚒ - fixing an issue / making an issue / go
 - 🚱 - memory leaks
 - 📖📚ℹ️️ - documentation / comments / docs / examples
 - ❗❕❓❔‼️⁉️⚠␦ - important info
 
 ## ![#5B5EA6](https://placehold.it/15/5B5EA6/000000?text=+) changing
-- 🔈🔇🙊 - adding logging / reducing logging
+- 🔈🔉🔊🔇🙊🛎 - adding / reducing logging / log levels / verbose / silence / notifications
 - ⚡🐎🐌 - optimization / perf
 - 🐘🐬 - storage layer / data layer
 - 🗽 - model / computed properties / computed props
 - 💾💽 - save, disc, saving, localstorage
-- ✂️🗑🚮🚯💈 - cleaning / disabling / removing / cutting killing cleaning old cruft / trash / garbage
+- 🛁✂️🗑🚮🚯💈 - cleaning / disabling / removing / cutting killing cleaning old cruft / trash / garbage / scissors / bath
 - 💅 - polishing
-- 💄🎩🎨🎀 - for code style/sexy/colors/colours/design/fancy
-- ⚙🎚🎛⚡ - options / config / prefs / configuration / preferences / tweaking / fine tuning / adjusting / settings / dials / sliders
+- 💄🎩🎨🎀 - for code style/sexy/colors/colours/design/fancy/bow/lipstick/tophat
+- ⚙🎚🎛 - options / config / prefs / configuration / preferences / tweaking / fine tuning / adjusting / settings / dials / sliders
 - 🛂 - validation
 - 🌐 - api
 - 🕸 - routing / route / router
@@ -50,10 +50,10 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🚫❌✖️✖︎✗✘✕ - remove / disable / delete / x / close / prevent
 - 👃🐽☢☣🛢🍝 - code smells should be cleaned up / messy / spaghetti code / toxic / bad
 - 🐴🤢👺🤦‍♀️🤦 - stupid jackass hacks / hacky things / bad / dislike / facepalm
-- ⛓🔧🏹 :: 🎯 - aliasing :: specificity / resolving
-- ♻️♺♻︎♼▶️◀️ - abstracting / reusability / reuse / combine
+- ⛓🔧🏹 :: 🎯 - aliasing :: specificity / resolving / target
+- ♻️♺♻︎♼▶️◀️ - abstracting / reusability / reuse / combine / merge
 - ⚗☠💀 - experiments / skeletons / dead / death / skull / bones
-- 🚨🔬 - tests
+- 🔬🚨 - tests / errors
 - 📜 - scripts
 - 🔌 - plugins / middleware
 
@@ -67,7 +67,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🚧 - WIP / work in progress
 - 🏷 - version bump / tag / tagging / release
 - 🔖 - merging code / merge
-- ✨ - new feature
+- ✨🎁 - new feature / sparkles / presents
 - ⛴🚢 - shipping
 - 💩 - depreciating
 - 📇 - metadata
@@ -77,7 +77,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 👂📢 - event publishers / listeners / subscribers / handlers
 - ⌛⏳⏲ - time changes such as timeouts or polling / timing
 - 🚈🚆🚂 - network
-- ☕🏴🏳️ - filter things / whitelist / blacklist
+- ☕🏴🏳️ - filter things / whitelist / blacklist / coffee
 - 🔏🔐🔒🔓 - security
 - 🖥 - cli / command line / command-line / commandline
 - 🤖 - robots / macros /
@@ -112,23 +112,27 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🤾🏻‍♀️  🤾🏻‍♂️ 🏸 ☁️☁︎🔙🔚  - server / cloud / backend / back-end / back end
 - 🤸🏻‍♀️  🤸🏻‍♂️ - splitting code / separating
 - 👍👎 - approve / disapprove / like / dislike / thumbs down thumbs up
-- 👢📌 - bootstrap / entry point
+- 👢📌 - bootstrap / entry point / pin
 - 🍑(‿ˠ‿)👣  - bottom / butt / footer / foot / feet / walk / soles / paths
 - ⑆ ⑇ ⑈  ⑉ - layout
 - ⌶✎✐ - editing
 - ✔️☑️☒ - done / finishing / complete
 - ⍝ - touch / point
 - ☮️ - compatibility
-- 🌲 - ast, parsing
+- 🌲 - ast, parsing / tree
 - 🏎️ - engine
 - 🔋 - batteries
 - 🍰 - presets / baked in
 - 🖥👑⚔️ - commander / battle / crown / king / queen [commander](https://github.com/tj/commander.js/) / terminal
 - 🕳 🏊🏼‍♂️ 🏊‍♀️ - deep / digging / hole / black hole / advanced / diving deeper / swim
-- 👋 - introduction
+- 👋 - introduction / wave
 - 🎃 - tips n tricks
 - 💸 - cache
 - 📛 - badge
+- 💠🍫 - hub / chocolate
+- 🌽 - pr / pull request / corn
+- ☘🎲🗳 - luck / random / chance / probability / dice / suggestions
+- ⛏ - pick
 
 ## ![#EFC050](https://placehold.it/15/EFC050/000000?text=+) orgs
 - 🎼 - [the composer](http://design-systems.github.io/basics/)
@@ -186,15 +190,19 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 💾⛓🛂🛡⛓🐬 connecting validation safety between localstorage and - data layer
 - 🎨🎯 increasing selector specificity for colors
 - ♻️👾🛠 abstracting and simplifying build system
-- 🏰➕ improving architecture with added tests
-- ⚒🚨💅🎨🌀 fixed broken test for polishing animation on color transitions
+- 🏰➕🔬 improving architecture with added tests
+- ⚒🔬💅🎨🌀 fixed broken test for polishing animation on color transitions
 - 🐬🗽🍬🍦 - data model wrapper converted to vanillajs
 - 🛡👂 - safety to onclick handlers
 - 🔈⚙🎨 - config formatting options for logger
 - 📜🖥🐣🦄🏃🍑 - packagejson scripts @ the bottom for running async nested commands
 
 #### 🔜 yet-to-categorize
-- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰🚽😡💤🥛🏒🥅☄✳️✴️️🎵🎶⭐💠⛰
+- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰🚽😡💤🥛🏒🥅☄✳️✴️️🎵🎶⭐⛰
+
+## 🎃 tricks
+- `[control]` + `[command]` + `[spacebar]` to open emoji-keyboard on macos
+
 
 ## additional
 - ascii https://github.com/dysfunc/ascii-emoji
