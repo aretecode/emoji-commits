@@ -1,6 +1,8 @@
 # emoji-commits
 a more extensive general rule of thumb helpful emoji list for commit messages helpful for copy pasting & searching
 
+## [🍰 presets & 📘 examples](https://github.com/aretecode/emoji-commits/blob/master/presets-and-examples.md)
+
 ## ![#F6D155](https://placehold.it/15/#F6D155/000000?text=+) tools & todos
 - 📝✏ ️- updating todos
 - 🔧🛠🏗 - tooling / build
@@ -14,10 +16,9 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 ## ![#45B8AC](https://placehold.it/15/45B8AC/000000?text=+) fixing and docs
 - ⛑🛡 - safety
 - ⌨️⚒ - fixing / fix / fixing typos
-- 🔍🔎🐛 🚑🐛 - finding / fixing bugs / search / found / missing
+- 🔍🔎🐛 🚑🐛 - finding / fixing bugs / bug fix / search / found / missing
 - 🏁⚒ - fixing an issue / making an issue / go
-- 🚱 - memory leaks
-- 📖📚ℹ️️ - documentation / comments / docs / examples
+- 📖📘📚ℹ️️ - readme / examples / documentation,docs / comments,info
 - ❗❕❓❔‼️⁉️⚠␦ - important info
 
 ## ![#5B5EA6](https://placehold.it/15/5B5EA6/000000?text=+) changing
@@ -26,56 +27,52 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🐘🐬 - storage layer / data layer
 - 🗽 - model / computed properties / computed props
 - 💾💽 - save, disc, saving, localstorage
+- 💸📶 - cache / offline / service
 - 🛁✂️🗑🚮🚯💈 - cleaning / disabling / removing / cutting killing cleaning old cruft / trash / garbage / scissors / bath
 - 💅 - polishing
 - 💄🎩🎨🎀 - for code style/sexy/colors/colours/design/fancy/bow/lipstick/tophat
 - ⚙🎚🎛 - options / config / prefs / configuration / preferences / tweaking / fine tuning / adjusting / settings / dials / sliders
-- 🛂 - validation
+- 🛂 🚓🚔 - validation / schema, force / police
 - 🌐 - api
 - 🕸 - routing / route / router
-- 🗺📍 - sitemaps / schema / index / navigation
-- ⛓ - connecting / chain
+- 🗺📍 - sitemaps  / index / navigation
+- ⛓ - connecting / chain / fluent
+- ⛰ - environment
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ui
-- 🚼👶👀 - children (react, vue, inferno, html) / view layer / eye / baby
+- 🚼👶👀 - children (react, vue, inferno) / view layer / eye / baby / see
+- 📟📋📑 - pagination / lists / page, html
 - 🌀 - animation
 - 🔗 - links, linking, href
 
 ## ![#92A8D1](https://placehold.it/15/92A8D1/000000?text=+) code
-- 🍬🍭🍁 - sugar syntax / es6 / es7 / es / js / wrap
+- 🍬🍭🍁 - sugar syntax / es6 / es7 / es / js / wrap / candy
 - 🏛️🏰📐📏 - architecture / structure / measure / refactor
 - 🏭 - factory / factories / design patterns
 - 📼📺 - old code / ancient / artifacts
-- 📒🚚 - renaming/rename/moving/copying files/folders
-- 🚫❌✖️✖︎✗✘✕ - remove / disable / delete / x / close / prevent
+- ❎🚫❌✖️✖︎✗✘✕ - remove / disable / delete / x / close / prevent / cancel
+- ✅✔️☑️☒ - done / finishing / complete / checkmark
 - 👃🐽☢☣🛢🍝 - code smells should be cleaned up / messy / spaghetti code / toxic / bad
 - 🐴🤢👺🤦‍♀️🤦 - stupid jackass hacks / hacky things / bad / dislike / facepalm
 - ⛓🔧🏹 :: 🎯 - aliasing :: specificity / resolving / target
 - ♻️♺♻︎♼▶️◀️ - abstracting / reusability / reuse / combine / merge
+- 🤸🏻‍♀️  🤸🏻‍♂️ - splitting code / separating
 - ⚗☠💀 - experiments / skeletons / dead / death / skull / bones
 - 🔬🚨 - tests / errors
-- 📜 - scripts
-- 🔌 - plugins / middleware
-
-## ![#955251](https://placehold.it/15/955251/000000?text=+) words
-- 📆📅 - planning
-- 💡 - ideas
-- 📓 - stories / story
-- 📟📋 - pagination / lists / page
+- 📜🔌🔋 - scripts, plugins / middleware, convert / batteries
+- 👽🦐 - exports / imports / alien / shrimp
+- 📒🚚 - renaming/rename/moving/copying files/folders
 
 ## ![#B565A7](https://placehold.it/15/B565A7/000000?text=+) git & releasing
 - 🚧 - WIP / work in progress
-- 🏷 - version bump / tag / tagging / release
-- 🔖 - merging code / merge
-- ✨🎁 - new feature / sparkles / presents
-- ⛴🚢 - shipping
-- 💩 - depreciating
-- 📇 - metadata
-- ♿️ - accessibility
+- 🔖🏷🍴 - merging code, version bump / tag / tagging / release merge, fork
+- ✨🎁🆕🆙 - new feature / sparkles / presents / new program, update / improve / up!
+- 🚢📇💩♿️ - shipping / metadata / depreciating / accessibility
+- 🙃🤝 - flip / shake
 
 ## ![#009B77](https://placehold.it/15/009B77/000000?text=+) things
 - 👂📢 - event publishers / listeners / subscribers / handlers
-- ⌛⏳⏲ - time changes such as timeouts or polling / timing
+- ⌛⏳⏲⏱ - time changes such as timeouts or polling / timing
 - 🚈🚆🚂 - network
 - ☕🏴🏳️ - filter things / whitelist / blacklist / coffee
 - 🔏🔐🔒🔓 - security
@@ -83,7 +80,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🤖 - robots / macros /
 - ↩️↪️ - undo redo (e.g. commits)
 - 🔁➰ - loops
-- 🖼️ - images / pictures / polyfills
+- 🖼️ - images / pictures / polyfills / window / screenshot
 - ➕✙✚ - adding / enabling / enable / plus
 - 🤖🎓 - machine learning / ml / ai
 - 🛅 - pack / box
@@ -98,10 +95,10 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 
 ## ![#D65076](https://placehold.it/15/D65076/000000?text=+) misc
 - 🗂🛒 - organizing / grouping / putting things together
-- 🔮🦄💍 - magic / async / promises
+- 🔮🦄💍 - magic / async / promises / ring
 - 🆒😎🕶️ - cool
 - 😷 - sanitization
-- ⚖️🏋️ - scaling / scale / loader / benchmarks / comparisons
+- ⚖️🏋️ - scaling / scale / loader / benchmarks / comparisons / difference / equals
 - 🐣 - nesting
 - 🤣🐦 - mocks / stubs
 - 🏃 🏃‍♀️ - run / runner
@@ -110,29 +107,26 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🍦 - vanilla / vanilla js / defaults
 - 🏄 🏄🏻‍♀️ - onboard / on board / surf
 - 🤾🏻‍♀️  🤾🏻‍♂️ 🏸 ☁️☁︎🔙🔚  - server / cloud / backend / back-end / back end
-- 🤸🏻‍♀️  🤸🏻‍♂️ - splitting code / separating
 - 👍👎 - approve / disapprove / like / dislike / thumbs down thumbs up
 - 👢📌 - bootstrap / entry point / pin
-- 🍑(‿ˠ‿)👣  - bottom / butt / footer / foot / feet / walk / soles / paths
+- 🍑(‿ˠ‿)👣  - bottom / butt / footer / foot / feet / walk / soles / paths / step
 - ⑆ ⑇ ⑈  ⑉ - layout
 - ⌶✎✐ - editing
-- ✔️☑️☒ - done / finishing / complete
 - ⍝ - touch / point
 - ☮️ - compatibility
 - 🌲 - ast, parsing / tree
 - 🏎️ - engine
-- 🔋 - batteries
 - 🍰 - presets / baked in
 - 🖥👑⚔️ - commander / battle / crown / king / queen [commander](https://github.com/tj/commander.js/) / terminal
 - 🕳 🏊🏼‍♂️ 🏊‍♀️ - deep / digging / hole / black hole / advanced / diving deeper / swim
-- 👋 - introduction / wave
-- 🎃 - tips n tricks
-- 💸 - cache
-- 📛 - badge
+- 👋 - introduction / wave / basic
+- 📛🎃 - badge, tips n tricks
 - 💠🍫 - hub / chocolate
-- 🌽 - pr / pull request / corn
 - ☘🎲🗳 - luck / random / chance / probability / dice / suggestions
-- ⛏ - pick
+- ✍👓 - writing / reading
+- ⚾⭐🚁🆑💤😊 - catch / star / fly / clear / sleep / emoji-for-emoji 
+- 🥕🚱⛏ - root / memory leaks / pick
+- 🌽 - pr / pull request / corn
 
 ## ![#EFC050](https://placehold.it/15/EFC050/000000?text=+) orgs
 - 🎼 - [the composer](http://design-systems.github.io/basics/)
@@ -147,19 +141,24 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🕸🛅🏗 - [webpack](https://webpack.js.org/)
 - ☺️️🛅🏗 - [happypack](https://github.com/amireh/happypack)
 - 🍶📜 - [gulp](http://gulpjs.com/)
-- 🏗🏗 - [flipbox](https://github.com/flipbox)
+- 🏗💠 - [fliphub](https://github.com/fliphub)
 - 📦🐈 - [yarn](https://github.com/yarnpkg/yarn/blob/master/package.json#L7)
 - 🗞️🛅 - [rollup](https://github.com/rollup/rollup)
 - 🇳🕸⛓ - [neutrino webpack chain](https://github.com/mozilla-neutrino/neutrino-dev)
+- 💯 - [fosho](https://www.npmjs.com/package/fosho) / 100%
+- 🕵🗜 - [inspector-gadget](https://www.npmjs.com/package/inspector-gadget)
+- 🐉 - [lerna](https://github.com/lerna/lerna)
 
-## letters
+## ![#955251](https://placehold.it/15/955251/000000?text=+) words
+- 📆📅 - planning
+- 💡📓 - ideas, stories / story
+
+## ![#6DE01F](https://placehold.it/15/#6DE01F/000000?text=+) letters
 #### (could be for validating / formulas / keypad / input)
 - 🔣 - special characters
 - 🔢 - numbers / order
 - 🔤🔡🔠⎁⎂ words / letters
-- 🗝️⎁ - terms / definitions
-
-## ![#6DE01F](https://placehold.it/15/#6DE01F/000000?text=+) letters
+- 🗝️⎁ - terms / definitions / key
 - 🇦 🇧 🇨
 - 🇩 🇪 🇫
 - 🇬 🇭 🇮
@@ -169,40 +168,17 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🇹 🇺 🇻
 - 🇼 🇽 🇾 🇿
 
-## ![#2e0927](https://placehold.it/15/2e0927/000000?text=+) presets
-- 📝✏ ️update todos
-- 📝📅 update todos and planning
-- ❌📼📺📒 deleting old files
-- 🚮📼📺 removing old code
-- 🍭🍁 use es7 static props
-- 🍬 added @decorators for
-- 👕⚒ eslint autofixes
-- 🔇🙊 removed debugger
-- 🌐🚂📡📞 - api calls
-- 🔖🙏 merging pr for thingsnstuff from @
-- 👨‍🔧👩‍🔧 - mechanic / builder / plumber / worker
+### 🗝️
+- `/` means synonymous
+- `,` means next definition split, for example: `💡📓 - ideas, stories / story` ideas is for 💡, stories / story is for 📓
 
-## ![#7B68EE](https://placehold.it/15/7B68EE/000000?text=+) examples
-- 👩‍🔬👨‍🔬⚗🍭🍁🏛️🏭 - experiment with new language features using pattern
--  👩🏼‍🚒 👨🏼‍🚒 🚒🔥 - putting out fires
--  👩‍🎨 👨‍🎨 💄🎨 - improving styles
-- 🕸👨‍🔧👩‍🔧🌐📞 - webworkers for fetch api calls
-- 💾⛓🛂🛡⛓🐬 connecting validation safety between localstorage and - data layer
-- 🎨🎯 increasing selector specificity for colors
-- ♻️👾🛠 abstracting and simplifying build system
-- 🏰➕🔬 improving architecture with added tests
-- ⚒🔬💅🎨🌀 fixed broken test for polishing animation on color transitions
-- 🐬🗽🍬🍦 - data model wrapper converted to vanillajs
-- 🛡👂 - safety to onclick handlers
-- 🔈⚙🎨 - config formatting options for logger
-- 📜🖥🐣🦄🏃🍑 - packagejson scripts @ the bottom for running async nested commands
 
 #### 🔜 yet-to-categorize
-- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰🚽😡💤🥛🏒🥅☄✳️✴️️🎵🎶⭐⛰
+- 🚀🛰💥️🍾🎊🎉💊🔨️📎💬💭🗯⚰🚽😡💤🥛🏒🥅☄✳️✴️️🎵🎶
 
 ## 🎃 tricks
-- `[control]` + `[command]` + `[spacebar]` to open emoji-keyboard on macos
-
+- `[control]` + `[command]` + `[spacebar]` to open emoji-keyboard on macOS
+- if you use emoji in a markdown header, it is changed to a `-`, example, `# 🎃 tricks` becomes `#-tricks`
 
 ## additional
 - ascii https://github.com/dysfunc/ascii-emoji
@@ -213,6 +189,11 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - https://github.com/GordonDiggs/lasagna
 - http://www.unicode.org/emoji/charts/emoji-ordering.html
 - https://gitmoji.carloscuesta.me/
+- http://emoji.muan.co/
+- encode for url 
+	0. http://meyerweb.com/eric/tools/dencoder/, paste in, click encode
+	1. [open up dev console in chrome](https://developer.chrome.com/devtools)
+	2. `encodeURI('👀')`
 
 ## supported by github labels
 - ⚒️✂️⚔️⚙☮️ℹ️️✨☕⛳⛓⚡⛑✳️✴️️☄⛳⛱️❗
