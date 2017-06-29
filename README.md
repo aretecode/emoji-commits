@@ -18,11 +18,12 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ⌨️⚒ - fixing / fix / fixing typos
 - 🔍🔎🐛 🚑🐛 - finding / fixing bugs / bug fix / search / found / missing
 - 🏁⚒ - fixing an issue / making an issue / go
-- 📖📘📚ℹ️️ - readme / examples / documentation,docs / comments,info
+- 📖📘📚ℹ️️ - readme / examples / documentation,docs / comments,info,docblock,jsdocs
 - ❗❕❓❔‼️⁉️⚠␦ - important info
 
 ## ![#5B5EA6](https://placehold.it/15/5B5EA6/000000?text=+) changing
-- 🔈🔉🔊🔇🙊🛎 - adding / reducing logging / log levels / verbose / silence / notifications
+- 🔈🔉🔊🔇🙊🛎 - adding / reducing logging / log levels / verbose / silence / notifications / changelog
+- 🔊🐛 - debugger
 - ⚡🐎🐌 - optimization / perf
 - 🐘🐬 - storage layer / data layer
 - 🗽 - model / computed properties / computed props
@@ -50,40 +51,39 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🏛️🏰📐📏 - architecture / structure / measure / refactor
 - 🏭 - factory / factories / design patterns
 - 📼📺 - old code / ancient / artifacts
-- ❎🚫❌✖️✖︎✗✘✕ - remove / disable / delete / x / close / prevent / cancel
+- ❎🚫❌🔗✖️✖︎✗✘✕ - remove / disable / delete / x / close / prevent / cancel
 - ✅✔️☑️☒ - done / finishing / complete / checkmark
 - 👃🐽☢☣🛢🍝 - code smells should be cleaned up / messy / spaghetti code / toxic / bad
 - 🐴🤢👺🤦‍♀️🤦 - stupid jackass hacks / hacky things / bad / dislike / facepalm
-- ⛓🔧🏹 :: 🎯 - aliasing :: specificity / resolving / target
+- 🔧🏹 :: 🎯 - aliasing :: specificity / resolving, target/match
 - ♻️♺♻︎♼▶️◀️ - abstracting / reusability / reuse / combine / merge
 - 🤸🏻‍♀️  🤸🏻‍♂️ - splitting code / separating
-- ⚗☠💀 - experiments / skeletons / dead / death / skull / bones
+- 🔪⚗☠💀 - experiments / skeletons / dead / death / skull / bones
 - 🔬🚨 - tests / errors
 - 📜🔌🔋 - scripts, plugins / middleware, convert / batteries
-- 👽🦐 - exports / imports / alien / shrimp
-- 📒🚚 - renaming/rename/moving/copying files/folders
+- 👽🕴🦐 - exports / imports / alien / shrimp
+- 📒🚚 - renaming/rename/moving/move/copying files/folders
 
 ## ![#B565A7](https://placehold.it/15/B565A7/000000?text=+) git & releasing
 - 🚧 - WIP / work in progress
-- 🔖🏷🍴 - merging code, version bump / tag / tagging / release merge, fork
-- ✨🎁🆕🆙 - new feature / sparkles / presents / new program, update / improve / up!
+- 🔖🏷🍴 - merging code / version bump / initial commit, tag / tagging / release merge, fork
+- ✨🎁🆙 - new feature / sparkles / presents / new program, update / improve / up!
 - 🚢📇💩♿️ - shipping / metadata / depreciating / accessibility
 - 🙃🤝 - flip / shake
+- 🎡 - playground
 
 ## ![#009B77](https://placehold.it/15/009B77/000000?text=+) things
 - 👂📢 - event publishers / listeners / subscribers / handlers
 - ⌛⏳⏲⏱ - time changes such as timeouts or polling / timing
 - 🚈🚆🚂 - network
 - ☕🏴🏳️ - filter things / whitelist / blacklist / coffee
-- 🔏🔐🔒🔓 - security
-- 🖥 - cli / command line / command-line / commandline
-- 🤖 - robots / macros /
-- ↩️↪️ - undo redo (e.g. commits)
-- 🔁➰ - loops
+- 🔏🔐🔒🔓 - security / auth
+- 🖥📖 - cli / command line / command-line / commandline
+- 🔁➰ ↩️↪️- loops, undo redo (e.g. commits)
 - 🖼️ - images / pictures / polyfills / window / screenshot
 - ➕✙✚ - adding / enabling / enable / plus
-- 🤖🎓 - machine learning / ml / ai
-- 🛅 - pack / box
+- 🤖🎓 - robots / macros / machine learning / ml / ai / transform
+- 🛅 - pack / box / bundle / output-file-size
 
 ## ![#DD4124](https://placehold.it/15/DD4124/000000?text=+) user / collab
 - 📧 - mail / email / e-mail
@@ -92,6 +92,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 💪🙏🔖 - collab with others hi5 hi 5 high5 high 5
 - 🍪 - cookies / tracking
 - 📊📈📉 - charting / graphs
+- 🍪 - cookies / tracking
 
 ## ![#D65076](https://placehold.it/15/D65076/000000?text=+) misc
 - 🗂🛒 - organizing / grouping / putting things together
@@ -107,12 +108,12 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 🍦 - vanilla / vanilla js / defaults
 - 🏄 🏄🏻‍♀️ - onboard / on board / surf
 - 🤾🏻‍♀️  🤾🏻‍♂️ 🏸 ☁️☁︎🔙🔚  - server / cloud / backend / back-end / back end
-- 👍👎 - approve / disapprove / like / dislike / thumbs down thumbs up
+- 👍👎👌 - approve / disapprove / like / dislike / thumbs down thumbs up, ok/okay/nice
 - 👢📌 - bootstrap / entry point / pin
-- 🍑(‿ˠ‿)👣  - bottom / butt / footer / foot / feet / walk / soles / paths / step
+- 🍑(‿ˠ‿)👣  - bottom / butt / footer / foot / feet / walk / soles / paths / step / traverse
 - ⑆ ⑇ ⑈  ⑉ - layout
 - ⌶✎✐ - editing
-- ⍝ - touch / point
+- ⍝ - touch / point / drag
 - ☮️ - compatibility
 - 🌲 - ast, parsing / tree
 - 🏎️ - engine
@@ -127,6 +128,9 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - ⚾⭐🚁🆑💤😊 - catch / star / fly / clear / sleep / emoji-for-emoji 
 - 🥕🚱⛏ - root / memory leaks / pick
 - 🌽 - pr / pull request / corn
+- 👩‍💻👨‍💻 code / coding
+- 🐑💬 - threads / comments
+- 🌹 - thanks
 
 ## ![#EFC050](https://placehold.it/15/EFC050/000000?text=+) orgs
 - 🎼 - [the composer](http://design-systems.github.io/basics/)
@@ -148,9 +152,16 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - 💯 - [fosho](https://www.npmjs.com/package/fosho) / 100%
 - 🕵🗜 - [inspector-gadget](https://www.npmjs.com/package/inspector-gadget)
 - 🐉 - [lerna](https://github.com/lerna/lerna)
+- 🐏 - [ramda](https://github.com/ramda/ramda)
+- 🃏 - [jest](https://github.com/facebook/jest)
+- 📜📒 - [Makefile](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
+- 📊📈🎉 - [d3](https://github.com/d3/d3)
+- 🦋 - [fluture](https://github.com/fluture-js/Fluture)
+- 😎 - [awesome](https://github.com/sindresorhus/awesome)
+- ⛓ - [chain-able](https://github.com/fluents/chain-able)
 
 ## ![#955251](https://placehold.it/15/955251/000000?text=+) words
-- 📆📅 - planning
+- 📆📅 - planning / calendar
 - 💡📓 - ideas, stories / story
 
 ## ![#6DE01F](https://placehold.it/15/#6DE01F/000000?text=+) letters
@@ -170,7 +181,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 
 ### 🗝️
 - `/` means synonymous
-- `,` means next definition split, for example: `💡📓 - ideas, stories / story` ideas is for 💡, stories / story is for 📓
+- `,` means next definition split, e.g. `💡📓 - ideas, stories / story` ideas is for 💡, stories / story is for 📓
 
 
 #### 🔜 yet-to-categorize
@@ -181,6 +192,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 - if you use emoji in a markdown header, it is changed to a `-`, example, `# 🎃 tricks` becomes `#-tricks`
 
 ## additional
+- cli https://github.com/sindresorhus/emoj
 - ascii https://github.com/dysfunc/ascii-emoji
 - (ಠ_ಠ) - consternation
 ¯_(ツ)/¯ ¯\(ツ)_/¯ 🤷 💁‍ - IDK / whatever
