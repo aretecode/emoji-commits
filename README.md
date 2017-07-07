@@ -67,7 +67,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 ## ![#B565A7](https://placehold.it/15/B565A7/000000?text=+) git & releasing
 - 🚧 - WIP / work in progress
 - 🔖🏷🍴 - merging code / version bump / initial commit, tag / tagging / release merge, fork
-- ✨🎁🆙 - new feature / sparkles / presents / new program, update / improve / up!
+- ✨🎁🆕🆙 - new feature / sparkles / presents / new program, update / improve / up!
 - 🚢📇💩♿️ - shipping / metadata / depreciating / accessibility
 - 🙃🤝 - flip / shake
 - 🎡 - playground
