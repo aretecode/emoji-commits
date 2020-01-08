@@ -189,6 +189,7 @@ a more extensive general rule of thumb helpful emoji list for commit messages he
 
 ## 🎃 tricks
 - `[control]` + `[command]` + `[spacebar]` to open emoji-keyboard on macOS
+- `[windows key]` + `;` to open emoji-keyboard on Windows 10
 - if you use emoji in a markdown header, it is changed to a `-`, example, `# 🎃 tricks` becomes `#-tricks`
 
 ## additional
